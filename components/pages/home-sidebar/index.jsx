@@ -70,14 +70,14 @@ const HomeSidebar = () => {
             <Hero/>
             {/* End Hero */}
             <About/>
-            {/* End Hero */}
+            {/* End About */}
             <div className="edina_tm_services" id="service">
                 <div className="container">
                     <div className="edina_tm_title">
                         <h3>What I Do</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                            ipsum sit nibh amet egestas tellus.
+                            I'm always eager to learn. I understand that a software career isn't built in days, weeks,
+                            or even months, but over years.
                         </p>
                     </div>
                     {/* End edian_tm_title */}

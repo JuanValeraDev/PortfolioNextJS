@@ -3,7 +3,7 @@ import Social from "../Social";
 import ReactTyped from "react-typed";
 import Image from "next/image";
 import shapeImage from "../../public/img/hero/1.jpg";
-import heroImage from "../../public/img/hero/berlin_wall_smiley_face.jpg";
+import heroImage from "../../public/img/hero/WAD_1.jpeg";
 
 const heroContent = {
     shapeImage: shapeImage,

@@ -74,12 +74,13 @@ const About = () => {
                             <div
                                 className="main"
                                 style={{
-                                    backgroundImage: "url(img/about/2.jpg)",
+                                    backgroundImage: "url(img/hero/berlin_wall_smiley_face.jpg)",
                                 }}
                                 data-aos="fade-left"
                                 data-aos-duration="1200"
                                 data-aos-delay="200"
                             ></div>
+
 
                             <div
                                 className="experience"
@@ -88,8 +89,8 @@ const About = () => {
                                 data-aos-delay="300"
                             >
                                 <div className="info">
-                                    <h3>6+ Years</h3>
-                                    <span>Of Experiance</span>
+                                    <h3>Talent</h3>
+                                    <span>Multidisciplinar</span>
                                 </div>
                             </div>
                         </div>
