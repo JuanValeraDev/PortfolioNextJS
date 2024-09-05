@@ -89,10 +89,10 @@ const HomeSidebar = () => {
             <div className="edina_tm_portfolio" id="portfolio">
                 <div className="container">
                     <div className="edina_tm_title">
-                        <h3>Portfolio</h3>
+                        <h3>Projects</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                            ipsum sit nibh amet egestas tellus.
+                            Here you can find some of the projects I have worked on.
+
                         </p>
                     </div>
                     {/* End edian_tm_title */}

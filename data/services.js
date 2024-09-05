@@ -60,10 +60,6 @@ module.exports = [
                     </ul>
                 </div>
                 {/* End list */}
-                <p>
-                    Overall, React's combination of performance, flexibility, and a strong community makes it an
-                    excellent choice for building modern web and mobile applications.
-                </p>
             </>
         ),
     },

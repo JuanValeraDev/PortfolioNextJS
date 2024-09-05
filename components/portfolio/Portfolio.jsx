@@ -10,10 +10,10 @@ Modal.setAppElement("#__next");
 
 const Portfolio = () => {
   var settings = {
-    dots: false,
+    dots: true,
     arrow: true,
     infinite: true,
-    speed: 800,
+    speed: 300,
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: false,
