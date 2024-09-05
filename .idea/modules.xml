@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/edina.iml" filepath="$PROJECT_DIR$/.idea/edina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PortfolioNextJS.iml" filepath="$PROJECT_DIR$/.idea/PortfolioNextJS.iml" />
     </modules>
   </component>
 </project>

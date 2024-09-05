@@ -43,7 +43,7 @@ const About = () => {
                             </p>
                         </div>
                         <div className="my_skills">
-                            <h3 className="title">Stacks</h3>
+                            <h3 className="title">Soft Skills</h3>
                             <div className="wrapper">
                                 <div className="dodo_progress">
                                     <Skills/>
@@ -89,8 +89,8 @@ const About = () => {
                                 data-aos-delay="300"
                             >
                                 <div className="info">
+                                    <span>Multidisciplinary</span>
                                     <h3>Talent</h3>
-                                    <span>Multidisciplinar</span>
                                 </div>
                             </div>
                         </div>
